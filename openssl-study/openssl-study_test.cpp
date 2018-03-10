@@ -45,6 +45,4 @@ int main(int argc, char *argv[]) {
 
     s1 = Student_Malloc();
 
-
-
 }
